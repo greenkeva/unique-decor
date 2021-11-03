@@ -1,0 +1,42 @@
+[
+  {
+    "imageId": 1,
+    "image": "/assets/maria-orlova-outdoor.jpg",
+    "designer": "Bertoldi"
+  },
+  {
+    "imageId": 2,
+    "image": "/assets/maria-orlova.jpg",
+    "designer": "Bertoldi"
+  },
+  {
+    "imageId": 3,
+    "image": "/assets/max-vakhtbovych-city.jpg",
+    "designer": "Bertoldi"
+  },
+  {
+    "imageId": 4,
+    "image": "/assets/max-vakhtbovych-lion.jpg",
+    "designer": "Bertoldi"
+  },
+  {
+    "imageId": 5,
+    "image": "/assets/max-vakhtbovych.jpg",
+    "designer": "Erickson"
+  },
+  {
+    "imageId": 6,
+    "image": "/assets/maximum-vakhtbovych.jpg",
+    "designer": "Bertoldi"
+  },
+  {
+    "imageId": 7,
+    "image": "/assets/selenic-moon.jpg",
+    "designer": "Veronica Lacour"
+  },
+  {
+    "imageId": 8,
+    "image": "/assets/vakhtbovych.jpg",
+    "designer": "Brandeaux"
+  }
+]
